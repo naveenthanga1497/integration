@@ -13,6 +13,7 @@
     <module>jobs/process/sample1_0.1</module>
     <module>jobs/process/sample2_0.1</module>
     <module>jobs/process/test_0.1</module>
+    <module>jobs/process/test1_0.1</module>
   </modules>
   <properties>
     <talend.project.name>SAMPLE</talend.project.name>
