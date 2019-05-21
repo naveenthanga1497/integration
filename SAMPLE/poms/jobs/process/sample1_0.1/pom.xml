@@ -23,7 +23,7 @@
     <project.distribution-management.repository.id>${project.distributionManagement.repository.id}</project.distribution-management.repository.id>
     <maven.build.timestamp.format>yyyy-MM-dd HHmmssSSS</maven.build.timestamp.format>
     <talend.project.name>SAMPLE</talend.project.name>
-    <talend.product.version>7.1.1.20181026_1147</talend.product.version>
+    <talend.product.version>7.1.1.20190228_0243-patch</talend.product.version>
     <talend.job.finalName>sample1_0_1</talend.job.finalName>
     <talend.pigudf.groupid>org.example.sample.pigudf</talend.pigudf.groupid>
     <talend.routine.groupid>org.example.sample.code</talend.routine.groupid>
@@ -65,11 +65,6 @@
     <dependency>
       <groupId>org.talend.libraries</groupId>
       <artifactId>org.talend.dataquality.parser</artifactId>
-      <version>6.0.0</version>
-    </dependency>
-    <dependency>
-      <groupId>org.talend.libraries</groupId>
-      <artifactId>talend_DB_mssqlUtil-1.2-20171017</artifactId>
       <version>6.0.0</version>
     </dependency>
     <dependency>
